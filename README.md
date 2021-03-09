@@ -2,7 +2,7 @@
 Github Web Portfolio
 
 <!-- Heading -->
-|Description|
+||Description|
 |:--:|:--:|
 |Cell1|Cell2|
 |Cell1|Cell2|
