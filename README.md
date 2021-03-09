@@ -2,17 +2,14 @@
 Github Web Portfolio
 
 <!-- Heading -->
-|Header|Description|
+|2021년도 코딩 프로그램|
 |:--:|:--:|
-|Cell1|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
+|코딩 목표|
 
 <!-- Code -->
-`('your message')`
+'열심히하자'
 
 <!-- 여기다가 변수명 -->
 ```py 
-message
+알고리즘을 열심히하자
 ```
